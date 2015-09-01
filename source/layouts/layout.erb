@@ -35,21 +35,25 @@
             <span class="icon-bar"></span>
             <span class="icon-bar"></span>
           </button>
+<!--EWI: le link_to fait référence à un helper dans lequel est inséré un bloc 
           <% link_to "/index.html", class: "navbar-brand" do %>
             <%= image_tag 'logo.svg' %>
           <% end %>
         </div>
+      -->
 
         <!-- Collect the nav links, forms, and other content for toggling -->
         <div class="collapse navbar-collapse" id="bs-example-navbar-collapse-1">
 
           <ul class="nav navbar-nav navbar-right">
             <li>
+            <!-- EWI : encore un lien en référence à une helper qui renvoie vers pricing.html -->
               <% link_to "/pricing.html" do %>
                 <i class="fa fa-dollar"></i> Pricing
               <% end %>
             </li>
             <li>
+              <!-- idem helper avec un bloc qui doit insérer l'icone font awsome en lieu et place du lien-->
               <% link_to "/contact.html" do %>
                 <i class="fa fa-envelope-o"></i> Contact
               <% end %>
@@ -66,7 +70,27 @@
         </div><!-- /.navbar-collapse -->
       </div><!-- /.container-fluid -->
     </nav>
-
+<!-- Le yield ci-dessous ça doit être pour renvoyer au contenu du body -->
     <%= yield %>
+
+<!-- Ici on insère le footer comme demamdné dans les notes du Wagon --> 
+    <div id="footer">
+      <div class="container">
+        <div class="row">
+          <div class="col-xs-4">
+            <ul class="list-inline">
+              <li><a href=""><i class="fa fa-youtube"></i></a></li>
+              <li><a href=""><i class="fa fa-instagram"></i></a></li>
+              <li><a href=""><i class="fa fa-facebook"></i></a></li>
+              <li><a href=""><i class="fa fa-twitter"></i></a></li>
+            </ul>
+          </div>
+          <div class="col-xs-8 text-right">
+            <p>Stylus is a fictive product by LeWagon</p>
+          </div>
+        </div>
+      </div>
+    </div>
+
   </body>
 </html>
