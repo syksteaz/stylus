@@ -9439,7 +9439,7 @@ button.close {
 /* -------------------------------------
  * SCSS code
  * ------------------------------------- */
-/* line 38, C:/Users/Edouard/Desktop/stylus/source/stylesheets/layout/_navbar.css.scss */
+/* line 38, C:/Users/Edouard/desktop/stylus/source/stylesheets/layout/_navbar.css.scss */
 .navbar-wagon {
   background: white;
   font-family: "Montserrat", "sans-serif";
@@ -9450,7 +9450,7 @@ button.close {
   border-bottom: 0 solid grey;
   min-height: 0;
   transition: background 0.4s ease; }
-  /* line 49, C:/Users/Edouard/Desktop/stylus/source/stylesheets/layout/_navbar.css.scss */
+  /* line 49, C:/Users/Edouard/desktop/stylus/source/stylesheets/layout/_navbar.css.scss */
   .navbar-wagon .navbar-nav > li > a,
   .navbar-wagon .navbar-nav > .open > a,
   .navbar-wagon .navbar-nav > li > a:focus,
@@ -9465,19 +9465,19 @@ button.close {
     -moz-transition: all 0.3s ease;
     -ms-transition: all 0.3s ease;
     transition: all 0.3s ease; }
-  /* line 65, C:/Users/Edouard/Desktop/stylus/source/stylesheets/layout/_navbar.css.scss */
+  /* line 65, C:/Users/Edouard/desktop/stylus/source/stylesheets/layout/_navbar.css.scss */
   .navbar-wagon .navbar-nav > li > a:hover,
   .navbar-wagon .navbar-nav > .open > a:hover {
     color: #FDB631;
     background-color: transparent; }
-  /* line 71, C:/Users/Edouard/Desktop/stylus/source/stylesheets/layout/_navbar.css.scss */
+  /* line 71, C:/Users/Edouard/desktop/stylus/source/stylesheets/layout/_navbar.css.scss */
   .navbar-wagon .navbar-brand,
   .navbar-wagon .navbar-brand:hover {
     outline: none;
     color: black;
     padding-top: 5px;
     padding-bottom: 5px; }
-  /* line 79, C:/Users/Edouard/Desktop/stylus/source/stylesheets/layout/_navbar.css.scss */
+  /* line 79, C:/Users/Edouard/desktop/stylus/source/stylesheets/layout/_navbar.css.scss */
   .navbar-wagon .navbar-nav > li > a.btn {
     line-height: 40px;
     padding: 0 10px;
@@ -9487,30 +9487,30 @@ button.close {
     font-weight: bold;
     background-color: lightgrey;
     font-size: 12px; }
-    /* line 88, C:/Users/Edouard/Desktop/stylus/source/stylesheets/layout/_navbar.css.scss */
+    /* line 88, C:/Users/Edouard/desktop/stylus/source/stylesheets/layout/_navbar.css.scss */
     .navbar-wagon .navbar-nav > li > a.btn:hover {
       background-color: #878787; }
-  /* line 93, C:/Users/Edouard/Desktop/stylus/source/stylesheets/layout/_navbar.css.scss */
+  /* line 93, C:/Users/Edouard/desktop/stylus/source/stylesheets/layout/_navbar.css.scss */
   .navbar-wagon .navbar-brand img, .navbar-wagon .navbar-brand svg {
     height: 50px;
     padding: 0px; }
-  /* line 98, C:/Users/Edouard/Desktop/stylus/source/stylesheets/layout/_navbar.css.scss */
+  /* line 98, C:/Users/Edouard/desktop/stylus/source/stylesheets/layout/_navbar.css.scss */
   .navbar-wagon .img-avatar {
     border: 2px solid white;
     box-shadow: 0 0 2px #c8c8c8;
     height: 46px;
     margin-right: 10px;
     border-radius: 50%; }
-  /* line 106, C:/Users/Edouard/Desktop/stylus/source/stylesheets/layout/_navbar.css.scss */
+  /* line 106, C:/Users/Edouard/desktop/stylus/source/stylesheets/layout/_navbar.css.scss */
   .navbar-wagon .navbar-toggle {
     border-color: #dddddd;
     width: 45px;
     background: transparent; }
-  /* line 112, C:/Users/Edouard/Desktop/stylus/source/stylesheets/layout/_navbar.css.scss */
+  /* line 112, C:/Users/Edouard/desktop/stylus/source/stylesheets/layout/_navbar.css.scss */
   .navbar-wagon .navbar-nav > li > .dropdown-menu {
     border-radius: 0;
     margin-top: 10px; }
-  /* line 117, C:/Users/Edouard/Desktop/stylus/source/stylesheets/layout/_navbar.css.scss */
+  /* line 117, C:/Users/Edouard/desktop/stylus/source/stylesheets/layout/_navbar.css.scss */
   .navbar-wagon .navbar-nav > li > .dropdown-menu:before {
     position: absolute;
     background: white;
@@ -9530,10 +9530,10 @@ button.close {
  * Navbar profile picture
  * ------------------------------------- */
 @media screen and (max-width: 768px) {
-  /* line 140, C:/Users/Edouard/Desktop/stylus/source/stylesheets/layout/_navbar.css.scss */
+  /* line 140, C:/Users/Edouard/desktop/stylus/source/stylesheets/layout/_navbar.css.scss */
   .navbar-wagon .navbar-brand img, .navbar-wagon .navbar-brand svg {
     height: 50px; }
-  /* line 143, C:/Users/Edouard/Desktop/stylus/source/stylesheets/layout/_navbar.css.scss */
+  /* line 143, C:/Users/Edouard/desktop/stylus/source/stylesheets/layout/_navbar.css.scss */
   .navbar-wagon .navbar-brand, .navbar-wagon .navbar-brand:hover {
     display: block;
     color: black;
@@ -9544,37 +9544,37 @@ button.close {
  * These are examples of utilities classes
  * Feel free to change them and create your own
  * ------------------------------------- */
-/* line 7, C:/Users/Edouard/Desktop/stylus/source/stylesheets/layout/_utilities.css.scss */
+/* line 7, C:/Users/Edouard/desktop/stylus/source/stylesheets/layout/_utilities.css.scss */
 .padded {
   padding-top: 8em;
   padding-bottom: 8em; }
 
-/* line 11, C:/Users/Edouard/Desktop/stylus/source/stylesheets/layout/_utilities.css.scss */
+/* line 11, C:/Users/Edouard/desktop/stylus/source/stylesheets/layout/_utilities.css.scss */
 .bg-red {
   background: #EE5F5B;
   color: white; }
 
-/* line 15, C:/Users/Edouard/Desktop/stylus/source/stylesheets/layout/_utilities.css.scss */
+/* line 15, C:/Users/Edouard/desktop/stylus/source/stylesheets/layout/_utilities.css.scss */
 .bg-blue {
   background: #469AE0;
   color: white; }
 
-/* line 19, C:/Users/Edouard/Desktop/stylus/source/stylesheets/layout/_utilities.css.scss */
+/* line 19, C:/Users/Edouard/desktop/stylus/source/stylesheets/layout/_utilities.css.scss */
 .bg-yellow {
   background: #FDB631;
   color: white; }
 
-/* line 23, C:/Users/Edouard/Desktop/stylus/source/stylesheets/layout/_utilities.css.scss */
+/* line 23, C:/Users/Edouard/desktop/stylus/source/stylesheets/layout/_utilities.css.scss */
 .bg-orange {
   background: #E67E22;
   color: white; }
 
-/* line 27, C:/Users/Edouard/Desktop/stylus/source/stylesheets/layout/_utilities.css.scss */
+/* line 27, C:/Users/Edouard/desktop/stylus/source/stylesheets/layout/_utilities.css.scss */
 .bg-green {
   background: #32B796;
   color: white; }
 
-/* line 31, C:/Users/Edouard/Desktop/stylus/source/stylesheets/layout/_utilities.css.scss */
+/* line 31, C:/Users/Edouard/desktop/stylus/source/stylesheets/layout/_utilities.css.scss */
 .bg-purple {
   background: #6452BD;
   color: white; }
@@ -9597,7 +9597,7 @@ justin@justinaguilar.com
 slideDown
 ==============================================
 */
-/* line 23, C:/Users/Edouard/Desktop/stylus/source/stylesheets/vendor/_animation_cheat_sheet.css.scss */
+/* line 23, C:/Users/Edouard/desktop/stylus/source/stylesheets/vendor/_animation_cheat_sheet.css.scss */
 .slideDown {
   animation-name: slideDown;
   -webkit-animation-name: slideDown;
@@ -9638,7 +9638,7 @@ slideDown
 slideUp
 ==============================================
 */
-/* line 85, C:/Users/Edouard/Desktop/stylus/source/stylesheets/vendor/_animation_cheat_sheet.css.scss */
+/* line 85, C:/Users/Edouard/desktop/stylus/source/stylesheets/vendor/_animation_cheat_sheet.css.scss */
 .slideUp {
   animation-name: slideUp;
   -webkit-animation-name: slideUp;
@@ -9679,7 +9679,7 @@ slideUp
 slideLeft
 ==============================================
 */
-/* line 147, C:/Users/Edouard/Desktop/stylus/source/stylesheets/vendor/_animation_cheat_sheet.css.scss */
+/* line 147, C:/Users/Edouard/desktop/stylus/source/stylesheets/vendor/_animation_cheat_sheet.css.scss */
 .slideLeft {
   animation-name: slideLeft;
   -webkit-animation-name: slideLeft;
@@ -9720,7 +9720,7 @@ slideLeft
 slideRight
 ==============================================
 */
-/* line 209, C:/Users/Edouard/Desktop/stylus/source/stylesheets/vendor/_animation_cheat_sheet.css.scss */
+/* line 209, C:/Users/Edouard/desktop/stylus/source/stylesheets/vendor/_animation_cheat_sheet.css.scss */
 .slideRight {
   animation-name: slideRight;
   -webkit-animation-name: slideRight;
@@ -9761,7 +9761,7 @@ slideRight
 slideExpandUp
 ==============================================
 */
-/* line 271, C:/Users/Edouard/Desktop/stylus/source/stylesheets/vendor/_animation_cheat_sheet.css.scss */
+/* line 271, C:/Users/Edouard/desktop/stylus/source/stylesheets/vendor/_animation_cheat_sheet.css.scss */
 .slideExpandUp {
   animation-name: slideExpandUp;
   -webkit-animation-name: slideExpandUp;
@@ -9814,7 +9814,7 @@ slideExpandUp
 expandUp
 ==============================================
 */
-/* line 351, C:/Users/Edouard/Desktop/stylus/source/stylesheets/vendor/_animation_cheat_sheet.css.scss */
+/* line 351, C:/Users/Edouard/desktop/stylus/source/stylesheets/vendor/_animation_cheat_sheet.css.scss */
 .expandUp {
   animation-name: expandUp;
   -webkit-animation-name: expandUp;
@@ -9847,7 +9847,7 @@ expandUp
 fadeIn
 ==============================================
 */
-/* line 400, C:/Users/Edouard/Desktop/stylus/source/stylesheets/vendor/_animation_cheat_sheet.css.scss */
+/* line 400, C:/Users/Edouard/desktop/stylus/source/stylesheets/vendor/_animation_cheat_sheet.css.scss */
 .fadeIn {
   animation-name: fadeIn;
   -webkit-animation-name: fadeIn;
@@ -9886,7 +9886,7 @@ fadeIn
 expandOpen
 ==============================================
 */
-/* line 456, C:/Users/Edouard/Desktop/stylus/source/stylesheets/vendor/_animation_cheat_sheet.css.scss */
+/* line 456, C:/Users/Edouard/desktop/stylus/source/stylesheets/vendor/_animation_cheat_sheet.css.scss */
 .expandOpen {
   animation-name: expandOpen;
   -webkit-animation-name: expandOpen;
@@ -9923,7 +9923,7 @@ expandOpen
 bigEntrance
 ==============================================
 */
-/* line 512, C:/Users/Edouard/Desktop/stylus/source/stylesheets/vendor/_animation_cheat_sheet.css.scss */
+/* line 512, C:/Users/Edouard/desktop/stylus/source/stylesheets/vendor/_animation_cheat_sheet.css.scss */
 .bigEntrance {
   animation-name: bigEntrance;
   -webkit-animation-name: bigEntrance;
@@ -9982,7 +9982,7 @@ bigEntrance
 hatch
 ==============================================
 */
-/* line 593, C:/Users/Edouard/Desktop/stylus/source/stylesheets/vendor/_animation_cheat_sheet.css.scss */
+/* line 593, C:/Users/Edouard/desktop/stylus/source/stylesheets/vendor/_animation_cheat_sheet.css.scss */
 .hatch {
   animation-name: hatch;
   -webkit-animation-name: hatch;
@@ -10030,7 +10030,7 @@ hatch
 bounce
 ==============================================
 */
-/* line 666, C:/Users/Edouard/Desktop/stylus/source/stylesheets/vendor/_animation_cheat_sheet.css.scss */
+/* line 666, C:/Users/Edouard/desktop/stylus/source/stylesheets/vendor/_animation_cheat_sheet.css.scss */
 .bounce {
   animation-name: bounce;
   -webkit-animation-name: bounce;
@@ -10073,7 +10073,7 @@ bounce
 pulse
 ==============================================
 */
-/* line 730, C:/Users/Edouard/Desktop/stylus/source/stylesheets/vendor/_animation_cheat_sheet.css.scss */
+/* line 730, C:/Users/Edouard/desktop/stylus/source/stylesheets/vendor/_animation_cheat_sheet.css.scss */
 .pulse {
   animation-name: pulse;
   -webkit-animation-name: pulse;
@@ -10107,7 +10107,7 @@ pulse
 floating
 ==============================================
 */
-/* line 777, C:/Users/Edouard/Desktop/stylus/source/stylesheets/vendor/_animation_cheat_sheet.css.scss */
+/* line 777, C:/Users/Edouard/desktop/stylus/source/stylesheets/vendor/_animation_cheat_sheet.css.scss */
 .floating {
   animation-name: floating;
   -webkit-animation-name: floating;
@@ -10135,7 +10135,7 @@ floating
 tossing
 ==============================================
 */
-/* line 818, C:/Users/Edouard/Desktop/stylus/source/stylesheets/vendor/_animation_cheat_sheet.css.scss */
+/* line 818, C:/Users/Edouard/desktop/stylus/source/stylesheets/vendor/_animation_cheat_sheet.css.scss */
 .tossing {
   animation-name: tossing;
   -webkit-animation-name: tossing;
@@ -10163,7 +10163,7 @@ tossing
 pullUp
 ==============================================
 */
-/* line 859, C:/Users/Edouard/Desktop/stylus/source/stylesheets/vendor/_animation_cheat_sheet.css.scss */
+/* line 859, C:/Users/Edouard/desktop/stylus/source/stylesheets/vendor/_animation_cheat_sheet.css.scss */
 .pullUp {
   animation-name: pullUp;
   -webkit-animation-name: pullUp;
@@ -10210,7 +10210,7 @@ pullUp
 pullDown
 ==============================================
 */
-/* line 928, C:/Users/Edouard/Desktop/stylus/source/stylesheets/vendor/_animation_cheat_sheet.css.scss */
+/* line 928, C:/Users/Edouard/desktop/stylus/source/stylesheets/vendor/_animation_cheat_sheet.css.scss */
 .pullDown {
   animation-name: pullDown;
   -webkit-animation-name: pullDown;
@@ -10257,7 +10257,7 @@ pullDown
 stretchLeft
 ==============================================
 */
-/* line 997, C:/Users/Edouard/Desktop/stylus/source/stylesheets/vendor/_animation_cheat_sheet.css.scss */
+/* line 997, C:/Users/Edouard/desktop/stylus/source/stylesheets/vendor/_animation_cheat_sheet.css.scss */
 .stretchLeft {
   animation-name: stretchLeft;
   -webkit-animation-name: stretchLeft;
@@ -10304,7 +10304,7 @@ stretchLeft
 stretchRight
 ==============================================
 */
-/* line 1066, C:/Users/Edouard/Desktop/stylus/source/stylesheets/vendor/_animation_cheat_sheet.css.scss */
+/* line 1066, C:/Users/Edouard/desktop/stylus/source/stylesheets/vendor/_animation_cheat_sheet.css.scss */
 .stretchRight {
   animation-name: stretchRight;
   -webkit-animation-name: stretchRight;
